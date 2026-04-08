@@ -48,3 +48,8 @@ npm run start
 ## Deployment on Vercel
 Since this runs entirely on the frontend with `localStorage`, it is fully production-ready for standard Next.js deployments.
 Push your code to a Git provider (like GitHub) and import the repository into your Vercel dashboard. The build settings should automatically be configured for a Next.js framework.
+
+## Author
+Naresh Kumar
+Passionate about Web Development & UI/UX
+Always building something creative 
